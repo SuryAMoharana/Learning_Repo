@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+    <script>
+        var cadi={
+            make:"GM",
+            model:"Cadillac",
+            year:1955,
+            color:"tan",
+            passenger:5,
+            convertible:false,
+            mileage:1982,
+            started:false,
+            fule:0,
+            start:function(){
+                if(this.fuel>0){
+                    this.started=true;
+                }
+                else{
+                    alert("The car is on empty, fill up before starting!");
+                }                
+            },
+            stop:function(){
+                this.started=false
+            },
+            drive:function(){
+                if(this.started){
+                    if(this.fuel>0){
+                        alert(this.make+" "+this.model+" goes zoom zoom!");
+                        this.fuel=this.fuel-1;
+                    }else{
+                        alert("Uh oh out of fuel.");
+                        this.stop();
+                    }
+                    alert(this.make+" "+this.model+" goes Zoom Zoom!")
+                }else{
+                    alert("You need to start the engine first.")
+                }
+            },
+            addFulel:function(amount){
+                this.fuel=this.fuel+amount;
+            }
+        }
+        cadi.addFuel(2);
+        cadi.start();
+        cadi.drive();
+        cadi.stop();
+    </script>
+</head>
+<body>    
+</body>
+</html>
