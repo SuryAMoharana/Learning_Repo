@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<script>
+    var passengers = [
+        { name: "Jane Doloop", paid: true },
+        { name: "Dr. Evel", paid: true },
+        { name: "Sue Property", paid: true },
+        { name: "John Funcall", paid: true }
+    ];
+
+    function processPassengers(passengers, testFunction) {
+        for (var i = 0; i < passengers.length; i++) {
+            if (testFunction(passengers[i])) {
+                return false;
+            }
+        }
+        return true;
+    }
+
+    function checkNoFlyList(passenger) {
+        return (passenger.name === "D Evel");
+    }
+    function checkNotPaid(passenger) {
+        return (!passenger.paid);
+    }
+
+    var allCanFly = processPassengers(passengers, checkNoFlyList);
+    if (!allCanFly) {
+        alert("The plane can't take off: we have a passenger on the no-fly-list.");
+    }
+    
+    var allPaid = processPassengers(passengers, checkNotPaid);
+    if (!allPaid) {
+        alert("The plane can't take off: not everyone has paid.");
+    }
+</script>
+<body>
+    
+</body>
+</html>
