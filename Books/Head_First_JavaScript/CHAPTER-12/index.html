@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<script>
+    function Coffee(roast, ounces){
+        this.roast=roast;
+        this.ounces=ounces;
+        this.getSize=function(){
+            size="small";
+            if(ounces=="8oz"){
+                size="small";
+            }else if(ounces=="12oz"){
+                size="medium";
+            }else{
+                size="large";
+            }
+            return "You’ve ordered a "+size+" "+this.roast+" Coffee";
+        }
+        this.toString=function(){
+            return "You’ve ordered a small House Blend coffee."
+        }
+    }
+    var houseBlend=new Coffee("House Blend",12);
+    alert(houseBlend.toString());
+
+    var darkRoast = new Coffee("Dark Roast", 16);
+    alert(darkRoast.getSize());
+</script>
+<body>
+    
+</body>
+</html>
