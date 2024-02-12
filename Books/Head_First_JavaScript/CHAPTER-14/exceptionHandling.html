@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+</head>
+<script>
+    // window.onload = function() {
+    //     alert("the page is loaded!");
+    // }
+    // $(document).ready(function() {
+    //     alert("the page is loaded!");
+    // });
+    // $(function() {
+    //     alert("the page is loaded!");
+    // });
+    // $(function() {
+    //     $("#buynow").click(function() {
+    //         alert("I want to buy now!");
+    // });
+// });
+
+window.onload = function() {
+try {
+var message = document.getElementById("messge");
+message.innerHTML = "Here's the message!";
+} catch (error) {
+console.log("Error! " + error.message);
+}
+};
+</script>
+
+<body>
+    <div id="message"></div>    
+</body>
+</html>
