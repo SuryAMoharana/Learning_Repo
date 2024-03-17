@@ -1,6 +1,7 @@
 import { StyleSheet, Text, View, Button } from 'react-native'
 import React from 'react'
-import { useNavigation } from '@react-navigation/native'
+import { useNavigation } from '@react-navigation/native';
+
 
 const Home = () => {
     const navigation=useNavigation();
@@ -9,6 +10,8 @@ const Home = () => {
       <Text>Home</Text>
       <Button title="Stack Navigate" onPress={()=>navigation.navigate("Job")}/>
     </View>
+    
+    
   )
 }
 
