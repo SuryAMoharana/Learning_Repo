@@ -4,8 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2aa9d371-c08a-4f61-ad4c-99f00900a645" name="Changes" comment="">
+    <list default="true" id="bfdacbd6-412d-48a2-97c5-953519f1804a" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/StreamApis/Terminals.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Array/Foreach.java" beforeDir="false" afterPath="$PROJECT_DIR$/Array/Foreach.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Revising_Concepts.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Revising_Concepts.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Revising_Concepts/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Revising_Concepts/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Revising_Concepts/Revising_Concepts.iml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Revising_Concepts/Revising_Concepts.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,48 +27,36 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="ProjectColorInfo">{
-  &quot;customColor&quot;: &quot;&quot;,
-  &quot;associatedIndex&quot;: 1
-}</component>
-  <component name="ProjectId" id="2daMxIlAWZmPERUbJoQmzK1klyi" />
-  <component name="ProjectLevelVcsManager">
-    <ConfirmationsSetting value="2" id="Add" />
-  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "customColor": "",
+  "associatedIndex": 1
+}]]></component>
+  <component name="ProjectId" id="2dzcK68GCEspjmJz4AD6PuOMeAH" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
     "Application.Foreach.executor": "Run",
+    "Application.Intermediate.executor": "Run",
+    "Application.Terminals.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "main",
-    "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "C:/Users/surya/OneDrive/Documents/GitHub/Learning_Repo/Revising_Concepts"
   }
 }]]></component>
-  <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\surya\OneDrive\Documents\GitHub\Practice\Revising_Concepts" />
-    </key>
-  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="2aa9d371-c08a-4f61-ad4c-99f00900a645" name="Changes" comment="" />
-      <created>1710241984056</created>
+      <changelist id="bfdacbd6-412d-48a2-97c5-953519f1804a" name="Changes" comment="" />
+      <created>1711014280959</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1710241984056</updated>
+      <updated>1711014280959</updated>
     </task>
     <servers />
-  </component>
-  <component name="VcsManagerConfiguration">
-    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
 </project>

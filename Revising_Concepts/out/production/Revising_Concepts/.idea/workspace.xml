@@ -1,17 +1,61 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2aa9d371-c08a-4f61-ad4c-99f00900a645" name="Changes" comment="" />
+    <list default="true" id="bfdacbd6-412d-48a2-97c5-953519f1804a" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Revising_Concepts.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Revising_Concepts/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Revising_Concepts/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Revising_Concepts/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Revising_Concepts/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Revising_Concepts/Array/Foreach.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Revising_Concepts/Array/Stream.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Revising_Concepts/Collection/CollectionInterface.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Revising_Concepts/Collection/DequeInterface.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Revising_Concepts/Collection/ListInterface.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Revising_Concepts/Collection/MapSubclass.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Revising_Concepts/Collection/QueueInterface.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Revising_Concepts/Collection/SetInterface.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Revising_Concepts/Comparable_Comparator/IdComparator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Revising_Concepts/Comparable_Comparator/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Revising_Concepts/Comparable_Comparator/Student.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Revising_Concepts/DSA/MaxMinElement.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Revising_Concepts/DSA/RemoveDuplicates.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Revising_Concepts/DSA/ReverseInPlace.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Revising_Concepts/Generics/Generics.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Revising_Concepts/Generics/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Revising_Concepts/JavaIO/FileReadWrite.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Revising_Concepts/Lambda_Expression/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Revising_Concepts/Lambda_Expression/MyFunction.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Revising_Concepts/Lambda_Expression/Student.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Revising_Concepts/MultiThreading/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Revising_Concepts/MultiThreading/MultiRunnable.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Revising_Concepts/MultiThreading/MultiThreading.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Revising_Concepts/Opearators/LeftRightShift.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Revising_Concepts/Revising_Concepts.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Revising_Concepts/Serialization/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Revising_Concepts/Serialization/Student.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Revising_Concepts/StreamApis/StreamOperations.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Revising_Concepts/String/Operations.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Revising_Concepts/TypeCasting/Explicit.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Revising_Concepts/TypeCasting/Implicit.class" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="ProjectColorInfo"><![CDATA[{
   "customColor": "",
   "associatedIndex": 1
 }]]></component>
-  <component name="ProjectId" id="2daMxIlAWZmPERUbJoQmzK1klyi" />
+  <component name="ProjectId" id="2dzcK68GCEspjmJz4AD6PuOMeAH" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -20,17 +64,19 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "kotlin-language-version-configured": "true"
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/surya/OneDrive/Documents/GitHub/Learning_Repo/Revising_Concepts"
   }
 }]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="2aa9d371-c08a-4f61-ad4c-99f00900a645" name="Changes" comment="" />
-      <created>1710241984056</created>
+      <changelist id="bfdacbd6-412d-48a2-97c5-953519f1804a" name="Changes" comment="" />
+      <created>1711014280959</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1710241984056</updated>
+      <updated>1711014280959</updated>
     </task>
     <servers />
   </component>
